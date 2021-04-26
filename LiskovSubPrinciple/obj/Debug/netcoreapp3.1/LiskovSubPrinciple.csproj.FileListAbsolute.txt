@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.exe
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.deps.json
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.runtimeconfig.json
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.runtimeconfig.dev.json
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.dll
+C:\Personal\Design patterns\LiskovSubPrinciple\bin\Debug\netcoreapp3.1\LiskovSubPrinciple.pdb
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.csprojAssemblyReference.cache
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.AssemblyInfo.cs
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.dll
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.pdb
+C:\Personal\Design patterns\LiskovSubPrinciple\obj\Debug\netcoreapp3.1\LiskovSubPrinciple.genruntimeconfig.cache

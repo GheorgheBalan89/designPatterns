@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Personal\Design patterns\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Personal\Design patterns\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.exe
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.deps.json
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.json
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Personal\Design patterns\DependecyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+C:\Personal\Design patterns\DependecyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.genruntimeconfig.cache

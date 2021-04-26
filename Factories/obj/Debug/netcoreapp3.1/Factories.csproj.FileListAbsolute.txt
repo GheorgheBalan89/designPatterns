@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.exe
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.deps.json
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.runtimeconfig.json
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.runtimeconfig.dev.json
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.dll
+C:\Personal\Design patterns\Factories\bin\Debug\netcoreapp3.1\Factories.pdb
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfo.cs
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.dll
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.pdb
+C:\Personal\Design patterns\Factories\obj\Debug\netcoreapp3.1\Factories.genruntimeconfig.cache

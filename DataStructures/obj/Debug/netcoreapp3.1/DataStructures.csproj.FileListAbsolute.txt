@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Personal\Design patterns\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Personal\Design patterns\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache

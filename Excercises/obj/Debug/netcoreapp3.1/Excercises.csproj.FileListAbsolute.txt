@@ -1,0 +1,13 @@
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.csprojAssemblyReference.cache
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.AssemblyInfoInputs.cache
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.AssemblyInfo.cs
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.csproj.CoreCompileInputs.cache
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.exe
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.deps.json
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.runtimeconfig.json
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.runtimeconfig.dev.json
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.dll
+C:\Personal\Design patterns\Excercises\bin\Debug\netcoreapp3.1\Excercises.pdb
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.dll
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.pdb
+C:\Personal\Design patterns\Excercises\obj\Debug\netcoreapp3.1\Excercises.genruntimeconfig.cache
