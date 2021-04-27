@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VoBYPRiPtPgjzonmWBdZpMUOlUhGKSXIlJqErl3/gfJ9icMLLkUkBj368CFO5eoPio3DXi3McqTkOVbhTvs7rw==",
+  "dgSpecHash": "BFmjtCcD0rExYrQQsxVRyXdzrNWNtrFt4EtUszA/8wR4XUjQtNgN8lR0+NYoWS7TMBqf75E21CqpEnapvOntSg==",
   "success": true,
-  "projectFilePath": "C:\\Personal\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
+  "projectFilePath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

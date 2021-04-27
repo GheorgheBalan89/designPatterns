@@ -11,3 +11,16 @@ C:\Personal\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPattern
 C:\Personal\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
 C:\Personal\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
 C:\Personal\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\GHBA\Documents\Personal\Projects\Design patterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache

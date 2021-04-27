@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\Design patterns\\Excercises\\Excercises.csproj",
+      "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\Excercises\\Excercises.csproj",
       "projectName": "Excercises",
-      "projectPath": "C:\\Personal\\Design patterns\\Excercises\\Excercises.csproj",
+      "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\Excercises\\Excercises.csproj",
       "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\Design patterns\\Excercises\\obj\\",
+      "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\Excercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

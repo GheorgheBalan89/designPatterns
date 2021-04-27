@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj": {}
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj": {
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj",
         "projectName": "InterfaceSegPrinciple",
-        "projectPath": "C:\\Personal\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj",
+        "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\InterfaceSegPrinciple\\InterfaceSegPrinciple.csproj",
         "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Design patterns\\InterfaceSegPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\InterfaceSegPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Design patterns\\DataStructures\\DataStructures.csproj": {}
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DataStructures\\DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Design patterns\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Design patterns\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Personal\\Design patterns\\DataStructures\\DataStructures.csproj",
+        "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DataStructures\\DataStructures.csproj",
         "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Design patterns\\DataStructures\\obj\\",
+        "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

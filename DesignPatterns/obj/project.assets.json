@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal\\Design patterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DesignPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "C:\\Personal\\Design patterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DesignPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal\\Design patterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

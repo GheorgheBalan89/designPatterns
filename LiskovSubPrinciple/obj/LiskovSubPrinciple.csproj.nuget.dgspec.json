@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj": {}
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj": {
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj",
         "projectName": "LiskovSubPrinciple",
-        "projectPath": "C:\\Personal\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj",
+        "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\LiskovSubPrinciple\\LiskovSubPrinciple.csproj",
         "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Design patterns\\LiskovSubPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\LiskovSubPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

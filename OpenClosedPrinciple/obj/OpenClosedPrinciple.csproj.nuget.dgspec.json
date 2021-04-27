@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "projectName": "OpenClosedPrinciple",
-        "projectPath": "C:\\Personal\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Design patterns\\OpenClosedPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\OpenClosedPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

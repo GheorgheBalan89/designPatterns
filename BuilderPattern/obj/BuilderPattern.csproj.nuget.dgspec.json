@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Design patterns\\BuilderPattern\\BuilderPattern.csproj": {}
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\BuilderPattern.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Design patterns\\BuilderPattern\\BuilderPattern.csproj": {
+    "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\BuilderPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
+        "projectUniqueName": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
         "projectName": "BuilderPattern",
-        "projectPath": "C:\\Personal\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
+        "projectPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\BuilderPattern.csproj",
         "packagesPath": "C:\\Users\\GHBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Design patterns\\BuilderPattern\\obj\\",
+        "outputPath": "C:\\Users\\GHBA\\Documents\\Personal\\Projects\\Design patterns\\BuilderPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GHBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
